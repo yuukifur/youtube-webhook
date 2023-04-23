@@ -1,0 +1,9 @@
+# npm modules
+node_modules/
+
+# cache generated from the script
+#
+# don't delete/remove this file,
+# otherwise the script's progress
+# will be reset.
+lastVideos.json
