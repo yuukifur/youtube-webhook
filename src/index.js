@@ -7,7 +7,7 @@ const {
   TIMEOUT,
   RSS_FEED_URLS,
   DISCORD_WEBHOOK_URL,
-} = require('./config.example');
+} = require('./config');
 
 // gambiarra2000
 // console.log = () => {};
